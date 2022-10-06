@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day7_Projects.Occurences</StartupObject>
+    <StartupObject>Day7_Projects.Scholarship</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Scholarship.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Doctor.cs" />
     <Compile Include="Occurences.cs" />
