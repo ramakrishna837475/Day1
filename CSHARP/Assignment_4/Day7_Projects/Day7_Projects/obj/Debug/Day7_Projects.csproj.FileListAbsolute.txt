@@ -1,0 +1,7 @@
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\bin\Debug\Day7_Projects.exe.config
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\bin\Debug\Day7_Projects.exe
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\bin\Debug\Day7_Projects.pdb
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\obj\Debug\Day7_Projects.csproj.AssemblyReference.cache
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\obj\Debug\Day7_Projects.csproj.CoreCompileInputs.cache
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\obj\Debug\Day7_Projects.exe
+C:\Ram\Day1\CSHARP\Assignment_4\Day7_Projects\Day7_Projects\obj\Debug\Day7_Projects.pdb
