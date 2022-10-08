@@ -9,21 +9,19 @@ namespace Day7_Projects
 
             string str = "RAMAKRISHNA";
             Console.WriteLine("The number of Occurences of a String #####  " + str + "  ######## is :");
-            Console.WriteLine(' ');
-            while (str.Length > 0)
+           
+            char ch = 'A';
+
+            int cont = 0;
+            foreach (char c in str)
             {
-                Console.Write(str[0] + " = ");
-                int cal = 0;
-                for (int i = 0; i < str.Length; i++)
+                if (c == ch)
                 {
-                    if (str[0] == str[i])
-                    {
-                        cal++;
-                    }
+                    cont++;
                 }
-                Console.WriteLine(cal);
-                str = str.Replace(str[0].ToString(), string.Empty);
             }
+
+            Console.WriteLine(cont);
             Console.ReadLine();
         }
     }
