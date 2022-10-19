@@ -1,0 +1,7 @@
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\bin\Debug\Assign-6.exe.config
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\bin\Debug\Assign-6.exe
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\bin\Debug\Assign-6.pdb
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\obj\Debug\Assign-6.csproj.AssemblyReference.cache
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\obj\Debug\Assign-6.csproj.CoreCompileInputs.cache
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\obj\Debug\Assign-6.exe
+C:\Ram\Day1\CSHARP\Assignment_6\Assign-6\Assign-6\obj\Debug\Assign-6.pdb
