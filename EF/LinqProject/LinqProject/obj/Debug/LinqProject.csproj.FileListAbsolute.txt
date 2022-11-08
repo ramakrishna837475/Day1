@@ -1,0 +1,7 @@
+C:\Ram\Day1\EF\LinqProject\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Ram\Day1\EF\LinqProject\LinqProject\bin\Debug\LinqProject.exe
+C:\Ram\Day1\EF\LinqProject\LinqProject\bin\Debug\LinqProject.pdb
+C:\Ram\Day1\EF\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Ram\Day1\EF\LinqProject\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Ram\Day1\EF\LinqProject\LinqProject\obj\Debug\LinqProject.exe
+C:\Ram\Day1\EF\LinqProject\LinqProject\obj\Debug\LinqProject.pdb

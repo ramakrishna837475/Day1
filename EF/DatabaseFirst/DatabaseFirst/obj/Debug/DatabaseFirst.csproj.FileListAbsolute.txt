@@ -1,0 +1,12 @@
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.AssemblyReference.cache
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CopyComplete
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Ram\Day1\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

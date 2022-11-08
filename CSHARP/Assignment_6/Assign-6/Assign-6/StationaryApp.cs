@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 namespace GenericsDemo
+
+    //4. Create a simple Stationery application to add items and display
+    //added items using Generic List collections
+
 {
     class Program
     {

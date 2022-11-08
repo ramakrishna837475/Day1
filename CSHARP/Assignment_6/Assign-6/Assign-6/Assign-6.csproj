@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Books.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="StructBooks.cs" />
     <Compile Include="StationaryApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

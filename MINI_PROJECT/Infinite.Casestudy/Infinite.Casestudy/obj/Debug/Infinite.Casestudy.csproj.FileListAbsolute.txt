@@ -1,0 +1,7 @@
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\bin\Debug\Infinite.Casestudy.exe.config
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\bin\Debug\Infinite.Casestudy.exe
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\bin\Debug\Infinite.Casestudy.pdb
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\obj\Debug\Infinite.Casestudy.csproj.CoreCompileInputs.cache
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\obj\Debug\Infinite.Casestudy.exe
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\obj\Debug\Infinite.Casestudy.pdb
+C:\Ram\Day1\MINI_PROJECT\Infinite.Casestudy\Infinite.Casestudy\obj\Debug\Infinite.Casestudy.csproj.AssemblyReference.cache
