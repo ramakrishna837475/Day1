@@ -1,7 +1,0 @@
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\obj\Debug\Assignment_5.csproj.AssemblyReference.cache
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\obj\Debug\Assignment_5.csproj.CoreCompileInputs.cache
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\bin\Debug\Assignment_5.exe.config
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\bin\Debug\Assignment_5.exe
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\bin\Debug\Assignment_5.pdb
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\obj\Debug\Assignment_5.exe
-C:\Ram\Day1\CSHARP\Assignment5\Assignment_5\Assignment_5\obj\Debug\Assignment_5.pdb

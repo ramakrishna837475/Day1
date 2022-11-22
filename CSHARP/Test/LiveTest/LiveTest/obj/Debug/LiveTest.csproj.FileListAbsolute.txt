@@ -1,7 +1,0 @@
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\bin\Debug\LiveTest.exe.config
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\bin\Debug\LiveTest.exe
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\bin\Debug\LiveTest.pdb
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\obj\Debug\LiveTest.csproj.AssemblyReference.cache
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\obj\Debug\LiveTest.csproj.CoreCompileInputs.cache
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\obj\Debug\LiveTest.exe
-C:\Ram\Day1\CSHARP\Test\LiveTest\LiveTest\obj\Debug\LiveTest.pdb

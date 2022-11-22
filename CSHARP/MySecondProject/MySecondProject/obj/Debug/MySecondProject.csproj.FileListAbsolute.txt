@@ -1,7 +1,0 @@
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\bin\Debug\MySecondProject.exe.config
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\bin\Debug\MySecondProject.exe
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\bin\Debug\MySecondProject.pdb
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\obj\Debug\MySecondProject.csproj.AssemblyReference.cache
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\obj\Debug\MySecondProject.csproj.CoreCompileInputs.cache
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\obj\Debug\MySecondProject.exe
-C:\Ram\Day1\CSHARP\MySecondProject\MySecondProject\obj\Debug\MySecondProject.pdb

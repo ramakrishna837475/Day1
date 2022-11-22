@@ -1,7 +1,0 @@
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\bin\Debug\Day5Projects.exe.config
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\bin\Debug\Day5Projects.exe
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\bin\Debug\Day5Projects.pdb
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\obj\Debug\Day5Projects.csproj.AssemblyReference.cache
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\obj\Debug\Day5Projects.csproj.CoreCompileInputs.cache
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\obj\Debug\Day5Projects.exe
-C:\Ram\Day1\CSHARP\Day5Projects\Day5Projects\obj\Debug\Day5Projects.pdb

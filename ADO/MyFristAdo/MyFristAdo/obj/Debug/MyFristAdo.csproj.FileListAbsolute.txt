@@ -1,7 +1,0 @@
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\obj\Debug\MyFristAdo.csproj.AssemblyReference.cache
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\obj\Debug\MyFristAdo.csproj.CoreCompileInputs.cache
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\bin\Debug\MyFristAdo.exe.config
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\bin\Debug\MyFristAdo.exe
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\bin\Debug\MyFristAdo.pdb
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\obj\Debug\MyFristAdo.exe
-C:\Ram\Day1\ADO\MyFristAdo\MyFristAdo\obj\Debug\MyFristAdo.pdb
