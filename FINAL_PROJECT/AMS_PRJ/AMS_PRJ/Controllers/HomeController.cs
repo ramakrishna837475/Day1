@@ -89,10 +89,10 @@ namespace AMS_PRJ.Controllers
 
             SqlConnection con1 = new SqlConnection("Data Source=MEDL011027364\\SQLEXPRESS;Initial Catalog=AMS;Integrated Security=True");
             con1.Open();
-            SqlCommand cmd1 = new SqlCommand("select username , password from AdminLogin where username = @eusername and password=@password ", con1);
+            SqlCommand cmd1 = new SqlCommand("select username , passwaord from AdminLogin where username = @username and passwaord=@passwaord ", con1);
             cmd1.Parameters.AddWithValue("@username", l.username);
 
-            cmd1.Parameters.AddWithValue("@password", l.Password);
+            cmd1.Parameters.AddWithValue("@passwaord", l.Password);
             SqlDataReader sdr1 = cmd1.ExecuteReader();
 
 
