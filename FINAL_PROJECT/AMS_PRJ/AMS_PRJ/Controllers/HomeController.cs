@@ -37,18 +37,31 @@ namespace AMS_PRJ.Controllers
 
             SqlConnection con = new SqlConnection("Data Source=MEDL011027364\\SQLEXPRESS;Initial Catalog=AMS;Integrated Security=True");
             con.Open();
-            SqlCommand cmd = new SqlCommand("select emp_id , e_password ,mng_id from employee where emp_id = @emp_id and e_password=@e_password ", con);
+            SqlCommand cmd = new SqlCommand("select emp_id , e_password ,mng_id ,Designation from employee where emp_id = @emp_id and e_password=@e_password ", con);
             cmd.Parameters.AddWithValue("@emp_id", e.empid);
           
             cmd.Parameters.AddWithValue("@e_password", e.Password);
             SqlDataReader sdr = cmd.ExecuteReader();
+            //SqlDataAdapter sd = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+           // sdr.Fill(dt);
 
 
             if (sdr.Read())
             {
                 Session["username"] = e.empid.ToString();
+              
+                if(sdr["Designation"].Equals("se"))
+                {
+                    return RedirectToAction("welcome");
+                }
+                else if (sdr["Designation"].Equals("manager"))
+                {
+                    return RedirectToAction("manager");
+                }
+
                 
-                return RedirectToAction("welcome");
+                
 
             }
             
@@ -116,6 +129,51 @@ namespace AMS_PRJ.Controllers
         }
 
         public ActionResult page()
+        {
+            return View();
+        }
+        public ActionResult manager()
+        {
+            return View();
+        }
+        public ActionResult LeaveRequest()
+        {
+            return View();
+        }
+        public ActionResult AttendenceView()
+        {
+            return View();
+        }
+        public ActionResult AddEmployee()
+        {
+            return View();
+        }
+        public ActionResult UpdateEmployee()
+        {
+            return View();
+        }
+        public ActionResult DeleteEmployee()
+        {
+            return View();
+        }
+
+        public ActionResult AddProject()
+        {
+            return View();
+        }
+        public ActionResult UpdateProject()
+        {
+            return View();
+        }
+        public ActionResult DeleteProject()
+        {
+            return View();
+        }
+        public ActionResult Attendence()
+        {
+            return View();
+        }
+        public ActionResult ManagerLeave()
         {
             return View();
         }

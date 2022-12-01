@@ -10,12 +10,18 @@
 </br></br></br></br>
 
     <form method="post">
-            <div>
-                    <button  class="btn-warning btn-lg"> @Html.ActionLink("Attendace", "CheckIn", "Home") &raquo;</button></br></br>
-                    <button class="btn btn-success btn-lg">@Html.ActionLink("Leave", "Leave", "Home")  &raquo;</button></br></br>
-                    <button class="btn btn-success btn-lg">@Html.ActionLink("summary", "summary", "Home")  &raquo;</button></br></br>
-                    <button class="btn btn-warning btn-lg">@Html.ActionLink("Back", "Login")&raquo;</button></br></br>
-                    <button class="btn btn-danger btn-lg">@Html.ActionLink("Logout", "Index")&raquo;</button></br></br>
+            <div class="navbar navbar-inverse navbar-fixed-top" >
+                <ul class="nav navbar-nav">
+
+                 <li> @Html.ActionLink("Attendace", "CheckIn", "Home")</li>
+                 <li > @Html.ActionLink("Leave", "Leave", "Home")</li>
+                 <li>    @Html.ActionLink("summary", "summary", "Home")</li>
+                 <li>   @Html.ActionLink("Back", "Login")</li>
+                  <li>  @Html.ActionLink("Logout", "Index")</li>
+
+                </ul>
+                
+                       
      
             </div>
     </form>

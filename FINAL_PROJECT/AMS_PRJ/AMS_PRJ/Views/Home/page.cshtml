@@ -5,6 +5,34 @@
 
 @if (Session["username"] != null)
 {
-    <center> <h2 style=" font-size:50px; color:darkgreen">Welcome to Login page</h2> </center>
+    <center> <h2 style=" font-size:50px; color:darkgreen">Welcome to Admin page</h2> </center>
 }
 
+<form method="post">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <ul class="nav navbar-nav">
+
+
+            <li> @Html.ActionLink("AddEmployee", "AddEmployee", "Home")</li>
+            <li>    @Html.ActionLink("UpdateEmployee", "UpdateEmployee", "Home")</li>
+            <li>    @Html.ActionLink("DeleteEmployee", "DeleteEmployee", "Home")</li>
+
+
+            <li> @Html.ActionLink("AddProject", "AddProject", "Home")</li>
+            <li>    @Html.ActionLink("UpdateProject", "UpdateProject", "Home")</li>
+            <li>    @Html.ActionLink("DeleteProject", "DeleteProject", "Home")</li>
+
+            <li> @Html.ActionLink("Attendence", "Attendence", "Home")</li>
+            <li> @Html.ActionLink("ManagerLeave", "ManagerLeave", "Home")</li>
+
+
+            <li>   @Html.ActionLink("Back", "admin")</li>
+            <li>   @Html.ActionLink("Signout", "index")</li>
+
+
+        </ul>
+
+
+
+    </div>
+</form>

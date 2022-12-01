@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "manager";
+}
+
+<center><h1 style="color:crimson">Welcome to Manager Portal</h1></center>
+
+<form method="post">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <ul class="nav navbar-nav">
+
+            <li> @Html.ActionLink("Attendace", "CheckIn", "Home")</li>
+            <li> @Html.ActionLink("Leave", "Leave", "Home")</li>
+            <li>    @Html.ActionLink("summary", "summary", "Home")</li>
+            <li>  @Html.ActionLink("LeaveRequest", "LeaveRequest", "Home")</li>                                    </li>
+            <li>   @Html.ActionLink("AttendenceView", "AttendenceView", "Home")                                          </li>
+            <li>   @Html.ActionLink("Back", "Login")</li>
+            <li>  @Html.ActionLink("Logout", "Index")</li>
+
+        </ul>
+
+
+
+    </div>
+</form>
+
+
