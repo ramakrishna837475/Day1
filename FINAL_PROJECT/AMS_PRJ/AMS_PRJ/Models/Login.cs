@@ -6,12 +6,12 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AMS_PRJ.Models
 {
-    public class employe
+    public class Login
     {
-        [Required(ErrorMessage = "please enter your id")]
-        [Display(Name = " Employee ID :")]
-        public string empid { get; set; }
-       
+        [Required(ErrorMessage = "please enter your name")]
+        [Display(Name = " UserName :")]
+        public string username { get; set; }
+
 
         [Required(ErrorMessage = "please enter your password")]
         [Display(Name = " Password :")]

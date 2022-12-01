@@ -25,11 +25,6 @@ namespace AMS_PRJ.Controllers
             return View();
         }
 
-        public ActionResult Contact()
-        {
-           
-            return View();
-        }
         [HttpGet]
         public ActionResult Login()
         {
@@ -42,8 +37,9 @@ namespace AMS_PRJ.Controllers
 
             SqlConnection con = new SqlConnection("Data Source=MEDL011027364\\SQLEXPRESS;Initial Catalog=AMS;Integrated Security=True");
             con.Open();
-            SqlCommand cmd = new SqlCommand("select emp_id , e_password ,designation from employee where emp_id = @emp_id and e_password=@e_password", con);
+            SqlCommand cmd = new SqlCommand("select emp_id , e_password ,mng_id from employee where emp_id = @emp_id and e_password=@e_password ", con);
             cmd.Parameters.AddWithValue("@emp_id", e.empid);
+          
             cmd.Parameters.AddWithValue("@e_password", e.Password);
             SqlDataReader sdr = cmd.ExecuteReader();
 
@@ -51,9 +47,11 @@ namespace AMS_PRJ.Controllers
             if (sdr.Read())
             {
                 Session["username"] = e.empid.ToString();
+                
                 return RedirectToAction("welcome");
 
             }
+            
             else
             {
                 ViewData["message"] = "user login details failed";
@@ -80,7 +78,47 @@ namespace AMS_PRJ.Controllers
         {
             return View();
         }
+        [HttpGet]
+        public ActionResult Admin()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Admin(Login l)
+        {
 
+            SqlConnection con1 = new SqlConnection("Data Source=MEDL011027364\\SQLEXPRESS;Initial Catalog=AMS;Integrated Security=True");
+            con1.Open();
+            SqlCommand cmd1 = new SqlCommand("select username , password from AdminLogin where username = @eusername and password=@password ", con1);
+            cmd1.Parameters.AddWithValue("@username", l.username);
+
+            cmd1.Parameters.AddWithValue("@password", l.Password);
+            SqlDataReader sdr1 = cmd1.ExecuteReader();
+
+
+            if (sdr1.Read())
+            {
+                Session["username"] = l.username.ToString();
+
+                return RedirectToAction("page");
+
+            }
+
+            else
+            {
+                ViewData["message"] = "user login details failed";
+            }
+
+
+            con1.Close();
+
+            return View();
+        }
+
+        public ActionResult page()
+        {
+            return View();
+        }
 
     }
 }
