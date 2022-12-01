@@ -72,8 +72,8 @@ C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\bin\System.Web.WebPages.Razor.xml
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\bin\Newtonsoft.Json.xml
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\bin\Antlr3.Runtime.pdb
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\obj\Debug\AMS_PRJ.csproj.AssemblyReference.cache
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\obj\Debug\AMS_PRJ.csproj.CoreCompileInputs.cache
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\obj\Debug\AMS_PRJ.csproj.CopyComplete
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\obj\Debug\AMS_PRJ.dll
 C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\obj\Debug\AMS_PRJ.pdb
+C:\Ram\Day1\FINAL_PROJECT\AMS_PRJ\AMS_PRJ\obj\Debug\AMS_PRJ.csproj.AssemblyReference.cache

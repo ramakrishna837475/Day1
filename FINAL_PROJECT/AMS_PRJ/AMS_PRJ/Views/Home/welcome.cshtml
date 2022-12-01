@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "welcome";
+}
+
+@if (Session["username"] != null)
+{
+   <center> <h2 style=" font-size:50px; color:darkgreen">Welcome to Employee page</h2> </center>
+}
+</br></br></br></br>
+
+    <form method="post">
+        
+            <button  class="btn-warning btn-lg"> @Html.ActionLink("Attendace", "CheckIn", "Home") &raquo;</button></br></br>
+            <div>
+          
+                <div class="container">
+                    <button class="click">Click Leave</button>
+                    <div class="list">
+                       <button>@Html.ActionLink("Leave", "Leave", "Home")  &raquo;</button>
+                        <button>@Html.ActionLink("summary", "summary", "Home")  &raquo;</button>
+                
+                </div>
+
+
+
+                </br></br>
+            </div>
+            <button class="btn btn-danger btn-lg">@Html.ActionLink("Back", "Login")&raquo;</button></br></br>
+            
+            
+        </div>
+    </form>
+

@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Leave";
+}
+<center>
+<h2 style="color:darkcyan; font-size:40px">Apply for Leave Page</h2>
+<form style=" border-width: 5px; border-color: #b95d52; border-style: double solid; font-size: 18px">
+    <table >
+        <tr>
+            <td>EmpId</td>
+            <td><input type="number" name="eid" /></td>
+        </tr>
+        <tr>
+            <td>EmpName</td>
+            <td><input type="text" name="ename" /></td>
+        </tr>
+        <tr>
+            <td>Leave Type</td>
+            <td><input type="text" name="l_type" /></td>
+        </tr>
+        <tr>
+            <td>No Of Days</td>
+            <td><input type="number" name="num" /></td>
+        </tr>
+        <tr>
+            <td>Start Date</td>
+            <td><input type="date" name="sdate" /></td>
+
+        </tr>
+        <tr>
+            <td>End Date</td>
+            <td><input type="date" name="edate" /></td>
+        </tr>
+        <tr>
+            <td>Leave Balance</td>
+            <td><input type="number" name="lnum" /></td>
+        </tr>
+        <tr>
+            <td>Reason</td>
+            <td><textarea rows="2" cols="23"></textarea></td>
+        </tr>
+        <tr>
+            <td>Manager Id</td>
+            <td><input type="number" name="mid" /></td>
+            
+        </tr>
+        </br></br></br>
+
+        <tr>
+           
+         <td> <button type="submit" class="btn-success  btn-lg" style="text-align:right;" >Submit</button></td></br>
+         <td><button type="reset"  class="btn-warning btn-lg"> Clear </button> </td>
+
+         <td> <button class="btn btn-danger btn-lg">  @Html.ActionLink("Back", "welcome")</button></td>
+        </tr>
+
+
+    </table>
+    
+    
+</form>
+</center>
+
+
+
