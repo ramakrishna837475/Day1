@@ -177,6 +177,19 @@ namespace AMS_PRJ.Controllers
         {
             return View();
         }
+        public ActionResult ManagerAttendence()
+        {
+            return View();
+        }
+        public ActionResult ManagarLeave()
+        {
+            return View();
+        }
+        public ActionResult ManagerSummary()
+        {
+            return View();
+        }
+
 
     }
 }

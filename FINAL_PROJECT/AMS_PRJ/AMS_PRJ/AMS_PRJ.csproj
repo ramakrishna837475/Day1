@@ -181,6 +181,9 @@
     <Content Include="Views\Home\DeleteProject.cshtml" />
     <Content Include="Views\Home\Attendence.cshtml" />
     <Content Include="Views\Home\ManagerLeave.cshtml" />
+    <Content Include="Views\Home\ManagerAttendence.cshtml" />
+    <Content Include="Views\Home\ManagarLeave.cshtml" />
+    <Content Include="Views\Home\ManagerSummary.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
